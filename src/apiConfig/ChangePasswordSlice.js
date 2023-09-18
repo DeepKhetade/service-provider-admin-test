@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
 
-const apiUrl = "http://13.232.2.101:3169/api/v1"
+const apiUrl = "https://service-provider-9f2b.onrender.com/api/v1"
 
 export const Change_Password = createAsyncThunk('/changes/Password', async ({ values, id }) => {
 

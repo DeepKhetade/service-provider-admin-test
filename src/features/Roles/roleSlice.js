@@ -56,7 +56,7 @@ export const getContentById = createAsyncThunk(
 
   async (id) => {
 
-    const responce = await axios.get(`http://13.232.2.101:5000/api/role/${id}`);
+    const responce = await axios.get(`https://service-provider-9f2b.onrender.com/api/role/${id}`);
 
     return responce.data;
 
