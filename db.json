@@ -1,0 +1,27 @@
+{
+    "rolesData" : [
+        {"name" : "Alex", "avatar" : "https://.in/img/faces/1-image.jpg", "email" : "alex@dashwind.com", "role" : "Angular", "amount" : 100},
+        {"name" : "Ereena", "avatar" : "https://.in/img/faces/2-image.jpg", "email" : "ereena@dashwind.com", "role" : "React JS", "amount" : 190},
+        {"name" : "John", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "jhon@dashwind.com", "role" : "View JS", "amount" : 112},
+        {"name" : "Matrix", "avatar" : "https://.in/img/faces/4-image.jpg", "email" : "matrix@dashwind.com", "role" : "Peru", "amount" : 111},
+        {"name" : "Virat", "avatar" : "https://.in/img/faces/5-image.jpg", "email" : "virat@dashwind.com", "role" : "React JS", "amount" : 190},
+        {"name" : "Miya", "avatar" : "https://.in/img/faces/6-image.jpg", "email" : "miya@dashwind.com", "role" : "Angular", "amount" : 230},
+        {"name" : "Virat", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "virat@dashwind.com", "role" : "View JS", "amount" : 331},
+        {"name" : "Matrix", "avatar" : "https://.in/img/faces/1-image.jpg", "email" : "matrix@dashwind.com", "role" : "React JS", "amount" : 581},
+        {"name" : "Ereena", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "ereena@dashwind.com", "role" : "Tokyo", "amount" : 151},
+        {"name" : "John", "avatar" : "https://.in/img/faces/2-image.jpg", "email" : "jhon@dashwind.com", "role" : "Angular", "amount" : 91},
+        {"name" : "Virat", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "virat@dashwind.com", "role" : "View JS", "amount" : 161},
+        {"name" : "Matrix", "avatar" : "https://.in/img/faces/4-image.jpg", "email" : "matrix@dashwind.com", "role" : "US", "amount" : 121},
+        {"name" : "Ereena", "avatar" : "https://.in/img/faces/6-image.jpg", "email" : "jhon@dashwind.com", "role" : "Tokyo", "amount" : 713},
+        {"name" : "John", "avatar" : "https://.in/img/faces/2-image.jpg", "email" : "ereena@dashwind.com", "role" : "React JS", "amount" : 217},
+        {"name" : "Virat", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "virat@dashwind.com", "role" : "Angular", "amount" : 117},
+        {"name" : "Miya", "avatar" : "https://.in/img/faces/7-image.jpg", "email" : "jhon@dashwind.com", "role" : "View JS", "amount" : 612},
+        {"name" : "Matrix", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "matrix@dashwind.com", "role" : "React JS", "amount" : 631},
+        {"name" : "Virat", "avatar" : "https://.in/img/faces/2-image.jpg", "email" : "ereena@dashwind.com", "role" : "Tokyo", "amount" : 151},
+        {"name" : "Ereena", "avatar" : "https://.in/img/faces/3-image.jpg", "email" : "virat@dashwind.com", "role" : "Angular", "amount" : 617}
+
+    
+    ]
+  
+
+}
